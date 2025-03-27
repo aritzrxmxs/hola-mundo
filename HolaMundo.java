@@ -9,7 +9,7 @@ public class HolaMundo {
 		String naranja = "\033[33m";
 		String azul = "\033[34m";
 
-		System.out.println("¡Hola Mundos!");
-		System.out.println("¡Mundo!");
+		System.out.println(naranja+"¡Hola Mundos!");
+		System.out.println(azul+"¡Mundo!");
 	}
 }
